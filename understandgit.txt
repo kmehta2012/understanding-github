@@ -1,8 +1,10 @@
-The rainbow
+The Rainbow
 
-v
-i
-b
-g
-y
-r
+Purple 
+Pink
+Orange
+Blue
+Greeen
+Yello
+Red
+These are the colors of the rainbow
